@@ -1,7 +1,4 @@
-# ecommerce-orders-analysis
-EDA of Brazilian e-commerce orders (Olist): revenue, delivery, customer satisfaction and payment analysis using pandas and seaborn
-
-# Olist E-Commerce: Exploratory Data Analysis
+# Olist E-Commerce: Exploratory Data Analysis (EDA)
 
 Exploratory analysis of ~100k Brazilian e-commerce orders (revenue, delivery, customer satisfaction and payments).
 
