@@ -16,7 +16,8 @@ ecommerce-orders-analysis/
 ├── data/                 # CSV files (8 tables + category translation)
 ├── notebooks/
 │   └── eda.ipynb         # Main analysis notebook
-└── README.md
+├── README.md 
+└── requirements.txt
 ```
 
 ## Key findings
